@@ -1,0 +1,7 @@
+clasp/*
+!clasp/ReadMe.md
+
+.gradle
+build/
+
+.idea
